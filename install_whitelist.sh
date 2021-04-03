@@ -1,5 +1,3 @@
-#! /bin/bash
-
 # User reported false positives for MMotti's regex filters
 # https://github.com/mmotti
 
